@@ -1,0 +1,135 @@
+body, ul, li, p {
+
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-size:1.2rem;
+	font-family: Arial;
+}
+
+
+a{
+	text-decoration:none;
+  padding: 20px 25px;
+}
+
+a:link {
+  color: #838383;
+}
+a:visited {
+ color: pink;
+}
+
+
+a:hover {
+   color: red;
+	background: yellow;
+    font-size: 30px;
+}
+
+a:active {
+  color: #df2b4f;
+}
+
+
+h1{
+	text-align: center;
+	margin-top:100px;
+}
+
+
+img{
+
+
+}
+
+
+#footer{
+	background:#c80000;
+	border-bottom: 1px solid #d8d8d8;
+	height:365px;
+	list-style: none;
+	text-align: center;
+	
+ 
+}
+
+.topo{
+	background:orange;
+	border-bottom: 5px solid;
+	height:585px;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  text-align: center;
+  float: center;
+
+}
+
+.header{
+background:#c80000;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+padding: 20px;
+}
+
+
+.menu{
+	display: flex;
+}
+
+
+.flex{
+	background:tomato;
+}
+.footer{
+	border-width: 5px solid-green;
+	background:orange;
+	height:385px;
+	list-style: none;
+}
+
+.menu li {
+	margin-left: 20px;
+}
+
+.menu li a{
+	display: block;
+	padding: 10px;
+	
+}
+
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+
+/*classes*/
+.verde{
+	color:#b9c941;
+}
+
+.fundo{
+	display: inline-block;
+}
+
+}
+/* flex box layout */
+
+
+/* #######  SERVIÇOS.HTML ############## */
+
+#et{
+
+  p { color:orange; }
+
+}
